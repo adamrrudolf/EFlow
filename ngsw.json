@@ -11,8 +11,7 @@
         "/index.html",
         "/main.f8c70e33aca7182b8d49.js",
         "/polyfills.7a0e6866a34e280f48e7.js",
-        "/runtime.a66f828dca56eeb90e02.js",
-        "/styles.5ee450ca3363441bb3d9.css"
+        "/runtime.a66f828dca56eeb90e02.js"
       ],
       "patterns": []
     },
@@ -47,8 +46,7 @@
     "/index.html": "9048c93958b68055583085bd3d212c196dcfe663",
     "/main.f8c70e33aca7182b8d49.js": "97ce9f47eecab0f7f3d999d1c36c202894bf046e",
     "/polyfills.7a0e6866a34e280f48e7.js": "9f0b8341c0a0caec1581da2f255eb5dbb8e12303",
-    "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
-    "/styles.5ee450ca3363441bb3d9.css": "b93d7c75c7c1b6b0b4e5c722afd1b8018ef6aa82"
+    "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e"
   },
   "navigationUrls": [
     {
